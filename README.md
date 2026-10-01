@@ -1,16 +1,16 @@
-<div align="center>
+<div align="center">
 
 # A A R O N  A N I L  P
 
-### CYBERSECURITY  /  VAPT  /  SECURITY RESEARCH
+### 🛡️ CYBERSECURITY  /  VAPT  /  SECURITY RESEARCH
 
 <br>
 
-<a href="https://www.linkedin.com/in/aaron-anil-p-7900ba234/">LINKEDIN</a> · <a href="https://github.com/void-hz">GITHUB</a> · `CEH` · `CSA` · `CPENT / PURSUING`
+<a href="https://www.linkedin.com/in/aaron-anil-p-7900ba234/">🔗 LINKEDIN</a> · <a href="https://github.com/void-hz">⌘ GITHUB</a> · <code>CEH</code> · <code>CSA</code> · <code>CPENT / PURSUING</code>
 
 <br><br>
 
-**LEARNING SYSTEMS DEEPLY · TESTING RESPONSIBLY · BUILDING PRACTICALLY**
+<strong>⌁ LEARNING SYSTEMS DEEPLY · TESTING RESPONSIBLY · BUILDING PRACTICALLY ⌁</strong>
 
 </div>
 
@@ -20,7 +20,7 @@
 <tr>
 <td width="58%" valign="top">
 
-## 01 / PROFILE
+## 01 / 👤 PROFILE
 
 I’m a BCA graduate building practical cybersecurity capability around **Vulnerability Assessment and Penetration Testing, network security, web application security and security automation**.
 
@@ -33,18 +33,18 @@ I focus on understanding what a tool is telling me rather than simply running co
 </td>
 <td width="42%" valign="top">
 
-### CURRENT FOCUS
+### 🎯 CURRENT FOCUS
 
-**VAPT**  
+**⚔️ VAPT**  
 Recon · enumeration · validation
 
-**WEB**  
+**🌐 WEB**  
 HTTP · auth · authorization · OWASP
 
-**NETWORK**  
+**🕸️ NETWORK**  
 TCP/IP · DNS · SMB · LDAP
 
-**BUILD**  
+**⚙️ BUILD**  
 Python · Linux · automation
 
 </td>
@@ -53,13 +53,13 @@ Python · Linux · automation
 
 ---
 
-## 02 / FEATURED BUILD
+## 02 / 🧪 FEATURED BUILD
 
 <table>
 <tr>
 <td width="22%" valign="top">
 
-### DREAPER
+### 🩸 DREAPER
 
 **IN DEVELOPMENT**
 
@@ -70,14 +70,14 @@ Python · Linux · automation
 
 A Python security tool being developed to process Nmap reconnaissance and turn service information into structured security findings.
 
-**DISCOVER** → **PARSE** → **CORRELATE** → **REPORT**
+**🔎 DISCOVER** → **⚙️ PARSE** → **🧩 CORRELATE** → **📄 REPORT**
 
 Current direction:
 
-- Nmap result parsing
-- Port and service identification
-- Version-aware vulnerability intelligence
-- Structured findings and reporting
+- 🔎 Nmap result parsing
+- 🔌 Port and service identification
+- 🧬 Version-aware vulnerability intelligence
+- 📋 Structured findings and reporting
 
 All development and examples are intended for authorized lab and assessment environments. Public examples use synthetic or documentation-only data.
 
@@ -87,66 +87,91 @@ All development and examples are intended for authorized lab and assessment envi
 
 ---
 
-## 03 / SECURITY TOOLKIT
+## 03 / 🧰 SECURITY TOOLKIT
 
 <table>
 <tr>
 <td align="center" width="25%">
-### RECON
+
+### 🔎 RECON
+
 **Nmap**
+
 discovery · ports · services · enumeration
+
 </td>
 <td align="center" width="25%">
-### WEB
+
+### 🌐 WEB
+
 **Burp Suite**
+
 HTTP · authentication · authorization · OWASP
+
 </td>
 <td align="center" width="25%">
-### TRAFFIC
+
+### 📡 TRAFFIC
+
 **Wireshark**
+
 packets · protocols · evidence
+
 </td>
 <td align="center" width="25%">
-### BUILD
+
+### 🐍 BUILD
+
 **Python / Linux**
+
 automation · scripting · labs
+
 </td>
 </tr>
 </table>
 
 ---
 
-## 04 / KNOWLEDGE
+## 04 / 🧠 KNOWLEDGE
 
 <details>
-<summary><strong>NETWORK SECURITY</strong></summary>
+<summary><strong>🌐 NETWORK SECURITY</strong></summary>
+
 <br>
+
 TCP/IP · OSI · DNS · HTTP/HTTPS · SSH · FTP/SFTP · SMB · LDAP · Kerberos · service enumeration · network reconnaissance
+
 </details>
 
 <details>
-<summary><strong>APPLICATION SECURITY</strong></summary>
+<summary><strong>🔐 APPLICATION SECURITY</strong></summary>
+
 <br>
+
 HTTP request/response analysis · authentication · authorization · OWASP methodology · vulnerability validation · security reporting
+
 </details>
 
 <details>
-<summary><strong>SYSTEMS & AUTOMATION</strong></summary>
+<summary><strong>💻 SYSTEMS & AUTOMATION</strong></summary>
+
 <br>
+
 Linux · Windows fundamentals · Python · Bash · security automation
+
 </details>
 
 ---
 
-## 05 / CERTIFICATION PATH
+## 05 / 🎓 CERTIFICATION PATH
 
 <table>
 <tr>
-<td align="center"><strong>CEH</strong><br><sub>COMPLETED</sub></td>
+<td align="center"><strong>🛡️ CEH</strong><br><sub>COMPLETED</sub></td>
 <td align="center">→</td>
-<td align="center"><strong>CSA</strong><br><sub>COMPLETED</sub></td>
+<td align="center"><strong>🔎 CSA</strong><br><sub>COMPLETED</sub></td>
 <td align="center">→</td>
-<td align="center"><strong>CPENT</strong><br><sub>PURSUING</sub></td>
+<td align="center"><strong>⚔️ CPENT</strong><br><sub>PURSUING</sub></td>
 </tr>
 </table>
 
@@ -156,12 +181,12 @@ Linux · Windows fundamentals · Python · Bash · security automation
 
 <div align="center">
 
-### LEARN  →  TEST  →  BUILD  →  DOCUMENT
+### 🔎 LEARN  →  🧪 TEST  →  ⚙️ BUILD  →  📄 DOCUMENT
 
 <sub>THE PROFILE CHANGES AS THE WORK CHANGES.</sub>
 
 <br><br>
 
-`VAPT` · `NETWORK SECURITY` · `WEB SECURITY` · `PYTHON`
+<code>VAPT</code> · <code>NETWORK SECURITY</code> · <code>WEB SECURITY</code> · <code>PYTHON</code>
 
 </div>
