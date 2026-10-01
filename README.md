@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Aaron Anil P — Cybersecurity / VAPT"/>
+<img src="./assets/hero.svg" width="100%" alt="Aaron Anil P — Cybersecurity and VAPT"/>
 
 </div>
 
@@ -12,42 +12,86 @@
 
 <br>
 
-<div align="center">
+## 01 / PROFILE
+
+I’m building practical cybersecurity capability around **network security, web application security, vulnerability assessment and security automation**.
+
+I learn by understanding the system first, then testing what I understand in controlled environments.
+
+**Current focus**
+
+VAPT · NETWORK ENUMERATION · WEB SECURITY · PYTHON AUTOMATION · CPENT
+
+<br>
+
 <img src="./assets/profile-panel.svg" width="100%" alt="Profile and current focus"/>
-</div>
 
 <br>
 
-<div align="center">
-<img src="./assets/dreaper-panel.svg" width="100%" alt="Dreaper project showcase"/>
-</div>
+## 02 / FEATURED BUILD
+
+### DREAPER
+
+**Network reconnaissance × vulnerability intelligence**
+
+Dreaper is a **Python tool in development** for turning Nmap reconnaissance into structured security findings.
+
+Current direction:
+
+**DISCOVER → PARSE → CORRELATE → REPORT**
+
+The project is being developed around authorized lab and assessment workflows. Example data shown in project materials is synthetic or documentation-only.
+
+<a href="https://github.com/void-hz/void-hz/tree/main">View the work →</a>
 
 <br>
 
-<div align="center">
-<img src="./assets/toolkit-panel.svg" width="100%" alt="Security toolkit and roadmap"/>
-</div>
+<img src="./assets/dreaper-panel.svg" width="100%" alt="Dreaper network reconnaissance project"/>
+
+<br>
+
+## 03 / TOOLKIT
+
+| Area | Working knowledge |
+| --- | --- |
+| **Reconnaissance** | Nmap · discovery · ports · services · version enumeration |
+| **Web Security** | Burp Suite · HTTP · authentication · authorization · OWASP methodology |
+| **Traffic Analysis** | Wireshark · packets · protocols · evidence |
+| **Systems & Automation** | Linux · Python · Bash fundamentals |
+
+### Learning direction
+
+**NOW** — VAPT fundamentals  
+**NEXT** — vulnerability validation + reporting  
+**BUILD** — Dreaper  
+**PROVE** — documented lab work
+
+<br>
+
+<img src="./assets/toolkit-panel.svg" width="100%" alt="Cybersecurity toolkit and learning direction"/>
 
 <br>
 
 ## 04 / KNOWLEDGE
 
 **NETWORK**  
-TCP/IP · OSI · DNS · HTTP/HTTPS · SSH · FTP/SFTP · SMB · LDAP · Kerberos · reconnaissance · service enumeration
+TCP/IP · OSI · DNS · HTTP/HTTPS · SSH · FTP/SFTP · SMB · LDAP · Kerberos
 
 **APPLICATION SECURITY**  
-OWASP methodology · HTTP request/response analysis · authentication · authorization · vulnerability validation · security reporting
+HTTP request/response analysis · authentication · authorization · vulnerability validation · security reporting
 
-**CURRENTLY STRENGTHENING**  
-VAPT methodology · web security · network enumeration · Python security automation · controlled lab practice · CPENT preparation
+**SYSTEMS**  
+Linux · Windows fundamentals · Python · Bash
 
 ---
 
 ## 05 / CERTIFICATION PATH
 
-**CEH** — Completed &nbsp;&nbsp; **CSA** — Completed &nbsp;&nbsp; **CPENT** — Pursuing
+**CEH** — Completed  
+**CSA** — Completed  
+**CPENT** — Pursuing
 
-> The certificate is a milestone. The real target is being able to demonstrate and explain the underlying skill.
+> Certificates are milestones. The real target is being able to demonstrate and explain the underlying skill.
 
 ---
 
@@ -55,10 +99,8 @@ VAPT methodology · web security · network enumeration · Python security autom
 
 ### LEARNING → TESTING → BUILDING → DOCUMENTING
 
-*This profile will grow as the work becomes real.*
+*This profile should change because the work changes.*
 
-<br>
-
-<img src="./assets/footer.svg" width="100%" alt="Keep learning, keep testing, keep building"/>
+<img src="./assets/footer.svg" width="100%" alt="Learning, testing, building and documenting"/>
 
 </div>
