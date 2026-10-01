@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 180" role="img" aria-label="Keep learning keep testing keep building">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#06b6d4"/><stop offset=".5" stop-color="#6366f1"/><stop offset="1" stop-color="#ec4899"/></linearGradient></defs>
+<rect width="1400" height="180" rx="26" fill="#080d1b"/>
+<path d="M0 135 C180 65 300 170 480 105 S790 50 950 105 S1200 165 1400 80" fill="none" stroke="url(#g)" stroke-width="3" opacity=".75"/>
+<path d="M0 150 C180 80 300 185 480 120 S790 65 950 120 S1200 180 1400 95" fill="none" stroke="#fff" stroke-opacity=".08" stroke-width="1"/>
+<text x="700" y="70" text-anchor="middle" fill="#f8fafc" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" letter-spacing="4">KEEP LEARNING  •  KEEP TESTING  •  KEEP BUILDING</text>
+<text x="700" y="105" text-anchor="middle" fill="#64748b" font-family="Arial,Helvetica,sans-serif" font-size="14">A practical cybersecurity journey, documented one project at a time.</text>
+</svg>
