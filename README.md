@@ -1,68 +1,92 @@
-<div align="center">
+<div align="center>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:111827,100:1e293b&text=AARON%20ANIL%20P&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=CYBERSECURITY%20%2F%20VAPT&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
-# Aaron Anil P
+### SECURITY • LEARNING • BUILDING
 
-### Cybersecurity • VAPT • Security Enthusiast
+**Vulnerability Assessment & Penetration Testing · Network Security · Web Security**
 
-Building practical cybersecurity skills through hands-on labs, personal projects, and continuous learning.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-anil-p-7900ba234/)
-[![Focus](https://img.shields.io/badge/Focus-VAPT-111827?style=flat)](https://github.com/void-hz)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0f172a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-anil-p-7900ba234/) [![GitHub](https://img.shields.io/badge/GITHUB-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/void-hz)
 
 </div>
 
 ---
 
-## Whoami
+## 01 / PROFILE
 
-I'm a BCA graduate building my career in cybersecurity, with a focus on **Vulnerability Assessment & Penetration Testing**, **Network Security**, and **Web Application Security**.
+> **Building practical cybersecurity skills one system at a time.**
 
-I enjoy understanding how systems work, identifying security weaknesses, and turning what I learn into practical projects.
+I'm a BCA graduate building my career in cybersecurity. My current direction is **VAPT**, with a supporting focus on **network security** and **web application security**.
 
-## Focus
+I learn by breaking concepts into hands-on exercises, testing them in controlled environments, and turning useful ideas into small projects.
 
-| VAPT | Network Security | Web Security |
-|:---:|:---:|:---:|
-| Reconnaissance & Enumeration | TCP/IP & Services | HTTP/HTTPS |
-| Vulnerability Assessment | Network Analysis | OWASP Methodology |
-| Security Testing | Service Enumeration | Burp Suite |
+---
 
-## Currently Learning
+## 02 / MISSION
 
-- VAPT methodologies and security assessment workflows
-- Network reconnaissance and service enumeration
-- Web application security testing
-- Python for security automation
-- CPENT preparation
+<table><tr><td width="33%" align="center"><h3>◈ VAPT</h3>Reconnaissance<br/>Enumeration<br/>Vulnerability Assessment<br/>Security Testing</td><td width="33%" align="center"><h3>◈ NETWORK</h3>TCP/IP<br/>Service Enumeration<br/>Network Analysis<br/>Protocol Fundamentals</td><td width="33%" align="center"><h3>◈ WEB</h3>HTTP / HTTPS<br/>OWASP<br/>Burp Suite<br/>Application Testing</td></tr></table>
 
-## Tools & Technologies
+---
 
-**Security:** Nmap · Burp Suite · Wireshark · Metasploit  
-**Systems:** Linux · Windows  
-**Programming:** Python · Bash fundamentals  
-**Networking:** TCP/IP · DNS · HTTP/HTTPS · SMB · SSH · LDAP · Kerberos
+## 03 / CURRENTLY BUILDING
 
-## Certifications
+### DREAPER
 
-- **CEH** — Certified Ethical Hacker
-- **CSA** — Certified SOC Analyst
-- **CPENT** — Currently pursuing
+**Network Reconnaissance & Vulnerability Analysis**
 
-## Building
+A Python security project being built to process reconnaissance data, understand exposed services, and turn scan results into structured security findings.
 
-### Dreaper
-A Python-based network reconnaissance and vulnerability analysis project focused on turning scan data into structured security findings.
+**STATUS:** IN DEVELOPMENT
 
-*Currently in development.*
+---
+
+## 04 / LEARNING LAB
+
+<table><tr><td>◈ NETWORK RECONNAISSANCE</td><td>IN PROGRESS</td></tr><tr><td>◈ SERVICE ENUMERATION</td><td>IN PROGRESS</td></tr><tr><td>◈ WEB APPLICATION SECURITY</td><td>IN PROGRESS</td></tr><tr><td>◈ PYTHON SECURITY AUTOMATION</td><td>IN PROGRESS</td></tr><tr><td>◈ VAPT METHODOLOGY</td><td>IN PROGRESS</td></tr><tr><td>◈ CPENT PREPARATION</td><td>IN PROGRESS</td></tr></table>
+
+---
+
+## 05 / TOOLBOX
+
+<div align="center">
+
+![Nmap](https://img.shields.io/badge/NMAP-111827?style=for-the-badge&logo=nmap&logoColor=white) ![Burp Suite](https://img.shields.io/badge/BURP%20SUITE-111827?style=for-the-badge&logo=burpsuite&logoColor=white) ![Wireshark](https://img.shields.io/badge/WIRESHARK-111827?style=for-the-badge&logo=wireshark&logoColor=white)
+
+![Metasploit](https://img.shields.io/badge/METASPLOIT-111827?style=for-the-badge) ![Linux](https://img.shields.io/badge/LINUX-111827?style=for-the-badge&logo=linux&logoColor=white) ![Python](https://img.shields.io/badge/PYTHON-111827?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
+## 06 / KNOWLEDGE STACK
+
+| Layer | Working Knowledge |
+|:---|:---|
+| **Security** | VAPT · Vulnerability Assessment · OWASP methodology |
+| **Networking** | TCP/IP · DNS · HTTP/HTTPS · SMB · SSH · LDAP · Kerberos |
+| **Systems** | Linux · Windows |
+| **Programming** | Python · Bash fundamentals |
+| **Tools** | Nmap · Burp Suite · Wireshark · Metasploit |
+
+---
+
+## 07 / CERTIFICATIONS
+
+<div align="center">
+
+CEH &nbsp; • &nbsp; CSA &nbsp; • &nbsp; CPENT — PURSUING
+
+</div>
 
 ---
 
 <div align="center">
 
-### Let's connect
+### CONNECT
 
-I'm open to learning, collaborating, and entry-level opportunities in cybersecurity.
+**Learning systems deeply. Testing responsibly. Building practical security skills.**
 
 [LinkedIn](https://www.linkedin.com/in/aaron-anil-p-7900ba234/) · [GitHub](https://github.com/void-hz)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:1e293b,50:111827,100:0f172a" width="100%"/>
 
 </div>
