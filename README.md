@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Aaron Anil P — Cybersecurity and VAPT"/>
+<img src="./.github/profile/hero.svg" width="100%" alt="Aaron Anil P — Cybersecurity and VAPT"/>
 
 </div>
 
@@ -24,7 +24,7 @@ VAPT · NETWORK ENUMERATION · WEB SECURITY · PYTHON AUTOMATION · CPENT
 
 <br>
 
-<img src="./assets/profile-panel.svg" width="100%" alt="Profile and current focus"/>
+<img src="./.github/profile/profile-panel.svg" width="100%" alt="Profile and current focus"/>
 
 <br>
 
@@ -46,7 +46,7 @@ The project is being developed around authorized lab and assessment workflows. E
 
 <br>
 
-<img src="./assets/dreaper-panel.svg" width="100%" alt="Dreaper network reconnaissance project"/>
+<img src="./.github/profile/dreaper-panel.svg" width="100%" alt="Dreaper network reconnaissance project"/>
 
 <br>
 
@@ -68,7 +68,7 @@ The project is being developed around authorized lab and assessment workflows. E
 
 <br>
 
-<img src="./assets/toolkit-panel.svg" width="100%" alt="Cybersecurity toolkit and learning direction"/>
+<img src="./.github/profile/toolkit-panel.svg" width="100%" alt="Cybersecurity toolkit and learning direction"/>
 
 <br>
 
@@ -101,6 +101,6 @@ Linux · Windows fundamentals · Python · Bash
 
 *This profile should change because the work changes.*
 
-<img src="./assets/footer.svg" width="100%" alt="Learning, testing, building and documenting"/>
+<img src="./.github/profile/footer.svg" width="100%" alt="Learning, testing, building and documenting"/>
 
 </div>
