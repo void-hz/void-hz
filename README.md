@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=AARON%20ANIL%20P&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=CYBERSECURITY%20%2F%20VAPT%20%2F%20SECURITY%20RESEARCH&descSize=18&descAlignY=62&animation=fadeIn&color=0:020617,45:0f172a,75:1e293b,100:020617" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=AARON%20ANIL%20P&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=CYBERSECURITY%20%7C%20VAPT%20%7C%20NETWORK%20%26%20WEB%20SECURITY&descSize=17&descAlignY=59&animation=fadeIn&color=0:050816,35:172554,68:4c1d95,100:0f172a" width="100%"/>
 
-# VOID.HZ
-
-### CYBERSECURITY • VAPT • NETWORK SECURITY
-
-**I learn how systems work — then I learn where they break.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=RECON.+ENUMERATE.+UNDERSTAND.+BUILD.;Vulnerability+Assessment+%26+Penetration+Testing;Learning+Cybersecurity+Through+Hands-On+Work" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/CONNECT-LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-anil-p-7900ba234/)
-[![GitHub](https://img.shields.io/badge/EXPLORE-GITHUB-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/void-hz)
+<a href="https://www.linkedin.com/in/aaron-anil-p-7900ba234/"><img src="https://img.shields.io/badge/%E2%86%92%20LINKEDIN-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/void-hz"><img src="https://img.shields.io/badge/%E2%86%92%20GITHUB-2563EB?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=void-hz&style=flat-square&color=7c3aed&label=PROFILE+VISITS"/>
 
 </div>
 
@@ -19,44 +19,48 @@
 
 <div align="center">
 
-## 01 — THE PERSON BEHIND THE TERMINAL
+# ◇ 01 / IDENTITY
+
+### VOID.HZ — BUILDING A CAREER IN CYBERSECURITY
 
 </div>
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
-### Hello, I'm Aaron.
+## 👋 Hello, I'm Aaron
 
-I'm a **BCA graduate** building my career in cybersecurity, with my current direction focused on **Vulnerability Assessment & Penetration Testing**.
+I'm a **BCA graduate** building practical capability in **Vulnerability Assessment & Penetration Testing**, with supporting interests in network and web application security.
 
-I prefer learning through **hands-on work** — reconnaissance, enumeration, traffic analysis, web testing, scripting and controlled security labs.
+My learning style is simple:
 
-Right now I'm turning that learning into projects that I can actually explain, demonstrate and improve.
+**UNDERSTAND → TEST → BREAK → ANALYZE → BUILD**
 
-> **No "expert" claims. Just continuous improvement, one system at a time.**
+I use controlled labs and personal projects to turn theory into something I can actually demonstrate and explain.
+
+> 🧭 **Current direction:** VAPT · Network Security · Web Security
 
 </td>
-<td width="40%" valign="top">
+<td width="42%" align="center">
 
-### CURRENT STATE
+<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github" />
 
-**FOCUS**
+<br/><br/>
 
-VAPT · NETWORK · WEB
+### CURRENT SIGNAL
 
-**BUILDING**
+🟣 **FOCUS**  
+VAPT / Security Testing
 
-DREAPER
+🔵 **BUILDING**  
+Dreaper
 
-**LEARNING**
-
+🟢 **LEARNING**  
 CPENT
 
-**CODE**
-
-PYTHON
+🟠 **STYLE**  
+Hands-on
 
 </td>
 </tr>
@@ -66,15 +70,19 @@ PYTHON
 
 <div align="center">
 
-## 02 — WHAT I WORK ON
+# ◈ 02 / SECURITY STACK
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7C3AED,50:2563EB,100:06B6D4" width="75%"/>
+
+</div>
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-### ◈ RECON
+## 🔭 RECON
 
-**Discover**
+**DISCOVER**
 
 Nmap  
 Port Discovery  
@@ -84,21 +92,21 @@ Version Detection
 </td>
 <td align="center" width="33%">
 
-### ◈ VAPT
+## 🛡️ VAPT
 
-**Investigate**
+**INVESTIGATE**
 
 Vulnerability Assessment  
 Validation  
 Security Testing  
-Reporting
+Security Reporting
 
 </td>
 <td align="center" width="33%">
 
-### ◈ WEB
+## 🌐 WEB
 
-**Understand**
+**UNDERSTAND**
 
 HTTP / HTTPS  
 OWASP  
@@ -109,45 +117,51 @@ Authentication & Authorization
 </tr>
 </table>
 
-</div>
-
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:64748b,100:020617" width="90%"/>
+# ◆ 03 / FEATURED BUILD
 
-## 03 — THE BUILD
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,50:2563EB,100:7C3AED" width="55%"/>
 
-# DREAPER
+# D R E A P E R
 
-### NETWORK RECONNAISSANCE → ANALYSIS → VULNERABILITY INTELLIGENCE
+### SCAN → PARSE → IDENTIFY → CORRELATE → REPORT
 
 </div>
 
 <table>
 <tr>
-<td valign="top" width="55%">
+<td width="60%" valign="top">
 
-**Dreaper** is my Python-based security project for turning raw reconnaissance into something easier to investigate.
+### ⚡ Network Reconnaissance & Vulnerability Analysis
 
-The goal is to build it progressively:
+**Dreaper** is my Python security project focused on processing reconnaissance results and turning exposed services into structured security information.
 
-**SCAN → PARSE → IDENTIFY → CORRELATE → REPORT**
+The project is being built incrementally rather than pretending to be a finished enterprise platform.
 
-It starts with Nmap reconnaissance and will evolve as my understanding grows.
+**Current direction**
 
-**STATUS:** IN DEVELOPMENT
+- 🔎 Nmap reconnaissance
+- 🧩 Service / version parsing
+- 🧠 Vulnerability intelligence correlation
+- 📋 Structured findings
+- 📊 Security-oriented output
+
+**STATUS:** 🟡 IN DEVELOPMENT
 
 </td>
-<td valign="top" width="45%">
+<td width="40%" align="center">
 
-**DREAPER CORE**
-
-NMAP → DISCOVERY  
-PARSER → SERVICES  
-INTEL → FINDINGS  
-REPORT → OUTPUT
+<strong>DREAPER CORE</strong><br/><br/>
+🔎 DISCOVERY<br/>
+↓<br/>
+🧩 PARSING<br/>
+↓<br/>
+🧠 INTELLIGENCE<br/>
+↓<br/>
+📋 FINDINGS
 
 </td>
 </tr>
@@ -157,14 +171,16 @@ REPORT → OUTPUT
 
 <div align="center">
 
-## 04 — THE TOOLKIT
+# ✦ 04 / TOOLBOX
 
-![Nmap](https://img.shields.io/badge/NMAP-020617?style=for-the-badge&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/BURP%20SUITE-020617?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/WIRESHARK-020617?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/METASPLOIT-020617?style=for-the-badge)
-![Linux](https://img.shields.io/badge/LINUX-020617?style=for-the-badge&logo=linux&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-020617?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github" />
+
+<br/><br/>
+
+![Nmap](https://img.shields.io/badge/NMAP-7C3AED?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/BURP%20SUITE-2563EB?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/WIRESHARK-0891B2?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/METASPLOIT-4F46E5?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -174,7 +190,7 @@ REPORT → OUTPUT
 <tr>
 <td width="50%" valign="top">
 
-## 05 — KNOWLEDGE
+# 🧠 05 / KNOWLEDGE
 
 **NETWORKING**
 
@@ -192,14 +208,16 @@ OWASP Methodology
 </td>
 <td width="50%" valign="top">
 
-## 06 — CURRENTLY LEARNING
+# 🚀 06 / LEARNING NOW
 
-01 — Network Reconnaissance  
-02 — Service Enumeration  
-03 — Web Application Security  
-04 — Python Security Automation  
-05 — VAPT Methodology  
-06 — CPENT Preparation
+| AREA | STATE |
+|---|---|
+| Network Recon | 🟣 Active |
+| Service Enumeration | 🔵 Active |
+| Web Security | 🟣 Active |
+| Python Automation | 🔵 Active |
+| VAPT Methodology | 🟣 Active |
+| CPENT Preparation | 🟠 Active |
 
 </td>
 </tr>
@@ -209,18 +227,24 @@ OWASP Methodology
 
 <div align="center">
 
-## 07 — CERTIFICATION PATH
+# 🎓 07 / CERTIFICATION PATH
 
-**CEH** &nbsp; • &nbsp; **CSA** &nbsp; • &nbsp; **CPENT — PURSUING**
+<img src="https://img.shields.io/badge/CEH-COMPLETED-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CSA-COMPLETED-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CPENT-PURSUING-06B6D4?style=for-the-badge"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&text=KEEP%20LEARNING.%20KEEP%20TESTING.&fontSize=24&fontColor=ffffff&animation=fadeIn&color=0:020617,50:111827,100:1e293b" width="100%"/>
+### THE GOAL IS NOT TO LOOK LIKE A SECURITY PROFESSIONAL.
 
-### VOID.HZ
+### THE GOAL IS TO BECOME ONE.
 
-**Cybersecurity • VAPT • Network Security**
+<br/>
 
-[LinkedIn](https://www.linkedin.com/in/aaron-anil-p-7900ba234/) · [GitHub](https://github.com/void-hz)
+<a href="https://www.linkedin.com/in/aaron-anil-p-7900ba234/"><img src="https://img.shields.io/badge/LET'S%20CONNECT-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=KEEP%20LEARNING%20%E2%80%A2%20KEEP%20TESTING%20%E2%80%A2%20KEEP%20BUILDING&fontSize=20&fontColor=ffffff&animation=fadeIn&color=0:050816,35:172554,68:4c1d95,100:0f172a" width="100%"/>
 
 </div>
