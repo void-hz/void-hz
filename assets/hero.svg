@@ -1,30 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 420" role="img" aria-label="Aaron Anil P — Cybersecurity and VAPT">
-<defs>
-  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#070b1a"/><stop offset=".52" stop-color="#10183b"/><stop offset="1" stop-color="#201052"/></linearGradient>
-  <linearGradient id="line" x1="0" x2="1"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#ec4899"/></linearGradient>
-  <radialGradient id="glow"><stop stop-color="#8b5cf6" stop-opacity=".42"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
-  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#ffffff" stroke-opacity=".055"/></pattern>
-  <filter id="blur"><feGaussianBlur stdDeviation="35"/></filter>
-</defs>
-<rect width="1400" height="420" rx="28" fill="url(#bg)"/>
-<rect width="1400" height="420" rx="28" fill="url(#grid)"/>
-<circle cx="1130" cy="115" r="260" fill="url(#glow)" filter="url(#blur)"/>
-<circle cx="1260" cy="310" r="190" fill="#06b6d4" opacity=".12" filter="url(#blur)"/>
-<g fill="none" stroke="url(#line)" stroke-width="2" opacity=".6">
-<path d="M880 78h95l45 45h120l60-60h125"/>
-<path d="M925 300h110l55-55h105l65 65h92"/>
-<path d="M1080 155h75l42 42h115"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 500" role="img" aria-label="Aaron Anil P — Cybersecurity and VAPT">
+<rect width="1600" height="500" fill="#0c0e11"/>
+<g stroke="#191d20" stroke-width="1" opacity=".9"><path d="M0 0V500"/><path d="M80 0V500"/><path d="M160 0V500"/><path d="M240 0V500"/><path d="M320 0V500"/><path d="M400 0V500"/><path d="M480 0V500"/><path d="M560 0V500"/><path d="M640 0V500"/><path d="M720 0V500"/><path d="M800 0V500"/><path d="M880 0V500"/><path d="M960 0V500"/><path d="M1040 0V500"/><path d="M1120 0V500"/><path d="M1200 0V500"/><path d="M1280 0V500"/><path d="M1360 0V500"/><path d="M1440 0V500"/><path d="M1520 0V500"/><path d="M0 0H1600"/><path d="M0 80H1600"/><path d="M0 160H1600"/><path d="M0 240H1600"/><path d="M0 320H1600"/><path d="M0 400H1600"/><path d="M0 480H1600"/></g>
+<rect x="64" y="54" width="6" height="376" fill="#bcff3a"/>
+<text x="100" y="76" fill="#9da3a5" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="3">CYBERSECURITY / VAPT</text>
+<text x="100" y="188" fill="#f0f1ed" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="800">AARON</text>
+<text x="100" y="268" fill="#f0f1ed" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="800">ANIL P</text>
+<text x="104" y="322" fill="#9da3a5" font-family="Arial,Helvetica,sans-serif" font-size="22">Network security · web security · security automation</text>
+<text x="104" y="364" fill="#dac9a5" font-family="Arial,Helvetica,sans-serif" font-size="17">BCA graduate  ·  CEH  ·  CSA  ·  CPENT / pursuing</text>
+<text x="104" y="414" fill="#f0f1ed" font-family="Georgia,serif" font-size="17">I learn by taking systems apart, testing them, and building what I understand.</text>
+<g transform="translate(1260 245)" fill="none" stroke="#2a2f31" stroke-width="2">
+<circle r="165"/><circle r="105"/><circle r="45"/>
+<path d="M0 -165V165M-165 0H165M-117 -117L117 117M117 -117L-117 117"/>
 </g>
-<g fill="#22d3ee"><circle cx="880" cy="78" r="4"/><circle cx="1040" cy="123" r="4"/><circle cx="1160" cy="123" r="4"/><circle cx="1220" cy="63" r="4"/><circle cx="925" cy="300" r="4"/><circle cx="1090" cy="245" r="4"/><circle cx="1195" cy="310" r="4"/></g>
-<rect x="78" y="72" width="5" height="205" rx="3" fill="url(#line)"/>
-<text x="115" y="110" fill="#94a3b8" font-family="Arial,Helvetica,sans-serif" font-size="18" letter-spacing="5">CYBERSECURITY / VAPT</text>
-<text x="110" y="185" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="700">AARON ANIL P</text>
-<text x="115" y="232" fill="#cbd5e1" font-family="Arial,Helvetica,sans-serif" font-size="22">Network Security  •  Web Security  •  Security Automation</text>
-<text x="115" y="275" fill="#67e8f9" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="2">LEARN  /  TEST  /  BUILD  /  DOCUMENT</text>
-<g transform="translate(115 325)">
-<rect width="150" height="42" rx="21" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".14"/>
-<circle cx="25" cy="21" r="6" fill="#22d3ee"/><text x="42" y="27" fill="#e2e8f0" font-family="Arial" font-size="15">BCA GRADUATE</text>
-<rect x="165" width="170" height="42" rx="21" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".14"/>
-<circle cx="190" cy="21" r="6" fill="#a78bfa"/><text x="207" y="27" fill="#e2e8f0" font-family="Arial" font-size="15">CPENT PURSUING</text>
-</g>
+<g fill="#bcff3a"><circle cx="1260" cy="80" r="7"/><circle cx="1425" cy="245" r="7"/><circle cx="1260" cy="410" r="7"/><circle cx="1095" cy="245" r="7"/></g>
+<circle cx="1260" cy="245" r="18" fill="#0c0e11" stroke="#bcff3a" stroke-width="3"/>
+<text x="1020" y="468" fill="#9da3a5" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2">SYSTEMS → SURFACE → SIGNAL → FINDING</text>
 </svg>
