@@ -1,38 +1,76 @@
-<div align="center">
+<div align="center>
 
-# AARON ANIL P
+# A A R O N  A N I L  P
 
-### CYBERSECURITY · VAPT · NETWORK & WEB SECURITY
+### CYBERSECURITY  /  VAPT  /  SECURITY RESEARCH
 
-CEH · CSA · CPENT / PURSUING
+<br>
 
-**Learning systems deeply. Testing responsibly. Building practical security skills.**
+<a href="https://www.linkedin.com/in/aaron-anil-p-7900ba234/">LINKEDIN</a> · <a href="https://github.com/void-hz">GITHUB</a> · `CEH` · `CSA` · `CPENT / PURSUING`
 
-[LinkedIn](https://www.linkedin.com/in/aaron-anil-p-7900ba234/) · [GitHub](https://github.com/void-hz)
+<br><br>
+
+**LEARNING SYSTEMS DEEPLY · TESTING RESPONSIBLY · BUILDING PRACTICALLY**
 
 </div>
 
 ---
 
-## PROFILE
+<table>
+<tr>
+<td width="58%" valign="top">
+
+## 01 / PROFILE
 
 I’m a BCA graduate building practical cybersecurity capability around **Vulnerability Assessment and Penetration Testing, network security, web application security and security automation**.
 
-My focus is understanding how systems work, identifying security weaknesses in controlled environments, validating findings, and documenting the results clearly.
+My approach is straightforward:
 
-**CURRENT FOCUS**
+**UNDERSTAND → TEST → VALIDATE → DOCUMENT**
 
-VAPT · Network Enumeration · Web Security · Python Automation · CPENT
+I focus on understanding what a tool is telling me rather than simply running commands.
+
+</td>
+<td width="42%" valign="top">
+
+### CURRENT FOCUS
+
+**VAPT**  
+Recon · enumeration · validation
+
+**WEB**  
+HTTP · auth · authorization · OWASP
+
+**NETWORK**  
+TCP/IP · DNS · SMB · LDAP
+
+**BUILD**  
+Python · Linux · automation
+
+</td>
+</tr>
+</table>
 
 ---
 
-## DREAPER
+## 02 / FEATURED BUILD
 
-**Network Reconnaissance × Vulnerability Intelligence**
+<table>
+<tr>
+<td width="22%" valign="top">
 
-Dreaper is a **Python security tool in development** for processing Nmap reconnaissance and turning service information into structured security findings.
+### DREAPER
 
-**DISCOVER → PARSE → CORRELATE → REPORT**
+**IN DEVELOPMENT**
+
+</td>
+<td width="78%" valign="top">
+
+**NETWORK RECONNAISSANCE × VULNERABILITY INTELLIGENCE**
+
+A Python security tool being developed to process Nmap reconnaissance and turn service information into structured security findings.
+
+**DISCOVER** → **PARSE** → **CORRELATE** → **REPORT**
 
 Current direction:
 
@@ -41,46 +79,76 @@ Current direction:
 - Version-aware vulnerability intelligence
 - Structured findings and reporting
 
-Development and examples are intended for authorized lab and assessment environments. Public examples use synthetic or documentation-only data.
+All development and examples are intended for authorized lab and assessment environments. Public examples use synthetic or documentation-only data.
 
-**Status:** IN DEVELOPMENT
-
----
-
-## SECURITY TOOLKIT
-
-**RECON**  
-Nmap · discovery · ports · services · enumeration
-
-**WEB SECURITY**  
-Burp Suite · HTTP · authentication · authorization · OWASP methodology
-
-**TRAFFIC ANALYSIS**  
-Wireshark · packets · protocols · evidence
-
-**SYSTEMS & AUTOMATION**  
-Linux · Python · Bash fundamentals
+</td>
+</tr>
+</table>
 
 ---
 
-## KNOWLEDGE
+## 03 / SECURITY TOOLKIT
 
-**NETWORK**  
-TCP/IP · OSI · DNS · HTTP/HTTPS · SSH · FTP/SFTP · SMB · LDAP · Kerberos
-
-**APPLICATION SECURITY**  
-HTTP request/response analysis · authentication · authorization · vulnerability validation · security reporting
-
-**SYSTEMS**  
-Linux · Windows fundamentals · Python · Bash
+<table>
+<tr>
+<td align="center" width="25%">
+### RECON
+**Nmap**
+discovery · ports · services · enumeration
+</td>
+<td align="center" width="25%">
+### WEB
+**Burp Suite**
+HTTP · authentication · authorization · OWASP
+</td>
+<td align="center" width="25%">
+### TRAFFIC
+**Wireshark**
+packets · protocols · evidence
+</td>
+<td align="center" width="25%">
+### BUILD
+**Python / Linux**
+automation · scripting · labs
+</td>
+</tr>
+</table>
 
 ---
 
-## CERTIFICATION PATH
+## 04 / KNOWLEDGE
 
-**CEH** — Completed  
-**CSA** — Completed  
-**CPENT** — Pursuing
+<details>
+<summary><strong>NETWORK SECURITY</strong></summary>
+<br>
+TCP/IP · OSI · DNS · HTTP/HTTPS · SSH · FTP/SFTP · SMB · LDAP · Kerberos · service enumeration · network reconnaissance
+</details>
+
+<details>
+<summary><strong>APPLICATION SECURITY</strong></summary>
+<br>
+HTTP request/response analysis · authentication · authorization · OWASP methodology · vulnerability validation · security reporting
+</details>
+
+<details>
+<summary><strong>SYSTEMS & AUTOMATION</strong></summary>
+<br>
+Linux · Windows fundamentals · Python · Bash · security automation
+</details>
+
+---
+
+## 05 / CERTIFICATION PATH
+
+<table>
+<tr>
+<td align="center"><strong>CEH</strong><br><sub>COMPLETED</sub></td>
+<td align="center">→</td>
+<td align="center"><strong>CSA</strong><br><sub>COMPLETED</sub></td>
+<td align="center">→</td>
+<td align="center"><strong>CPENT</strong><br><sub>PURSUING</sub></td>
+</tr>
+</table>
 
 > Certificates are milestones. The real target is being able to demonstrate and explain the underlying skill.
 
@@ -88,8 +156,12 @@ Linux · Windows fundamentals · Python · Bash
 
 <div align="center">
 
-### LEARN → TEST → BUILD → DOCUMENT
+### LEARN  →  TEST  →  BUILD  →  DOCUMENT
 
-*This profile changes as the work changes.*
+<sub>THE PROFILE CHANGES AS THE WORK CHANGES.</sub>
+
+<br><br>
+
+`VAPT` · `NETWORK SECURITY` · `WEB SECURITY` · `PYTHON`
 
 </div>
