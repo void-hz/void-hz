@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/void-hz/void-hz/main/assets/hero.svg?v=2" width="100%" alt="Aaron Anil P — Cybersecurity / VAPT"/>
+<img src="./assets/hero.svg" width="100%" alt="Aaron Anil P — Cybersecurity / VAPT"/>
 
 </div>
 
@@ -13,19 +13,19 @@
 <br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/void-hz/void-hz/main/assets/profile-panel.svg?v=2" width="100%" alt="Profile and current focus"/>
+<img src="./assets/profile-panel.svg" width="100%" alt="Profile and current focus"/>
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/void-hz/void-hz/main/assets/dreaper-panel.svg?v=2" width="100%" alt="Dreaper project showcase"/>
+<img src="./assets/dreaper-panel.svg" width="100%" alt="Dreaper project showcase"/>
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/void-hz/void-hz/main/assets/toolkit-panel.svg?v=2" width="100%" alt="Security toolkit and roadmap"/>
+<img src="./assets/toolkit-panel.svg" width="100%" alt="Security toolkit and roadmap"/>
 </div>
 
 <br>
@@ -59,6 +59,6 @@ VAPT methodology · web security · network enumeration · Python security autom
 
 <br>
 
-<img src="https://raw.githubusercontent.com/void-hz/void-hz/main/assets/footer.svg?v=2" width="100%" alt="Keep learning, keep testing, keep building"/>
+<img src="./assets/footer.svg" width="100%" alt="Keep learning, keep testing, keep building"/>
 
 </div>
