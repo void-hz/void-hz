@@ -1,30 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 470">
-<defs>
-<linearGradient id="bg" x1="0" x2="1"><stop stop-color="#090d1c"/><stop offset="1" stop-color="#111936"/></linearGradient>
-<linearGradient id="a" x1="0" x2="1"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#818cf8"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
-<filter id="glow"><feGaussianBlur stdDeviation="18"/></filter>
-</defs>
-<rect width="1400" height="470" rx="28" fill="url(#bg)" stroke="#26324f"/>
-<circle cx="1160" cy="80" r="180" fill="#6366f1" opacity=".12" filter="url(#glow)"/>
-<circle cx="1220" cy="390" r="150" fill="#06b6d4" opacity=".08" filter="url(#glow)"/>
-<text x="70" y="68" fill="#64748b" font-family="Arial" font-size="14" letter-spacing="4">01 / PROFILE</text>
-<text x="70" y="116" fill="#f8fafc" font-family="Arial" font-size="34" font-weight="700">THE PERSON BEHIND THE TERMINAL</text>
-<rect x="70" y="145" width="780" height="1" fill="#334155"/>
-<text x="70" y="185" fill="#cbd5e1" font-family="Arial" font-size="18">BCA graduate • cybersecurity learner • VAPT-focused</text>
-<text x="70" y="226" fill="#94a3b8" font-family="Arial" font-size="15">I’m building practical security capability from fundamentals:</text>
-<text x="70" y="251" fill="#94a3b8" font-family="Arial" font-size="15">understanding systems, testing them in controlled environments,</text>
-<text x="70" y="276" fill="#94a3b8" font-family="Arial" font-size="15">documenting what I find, and turning lessons into working projects.</text>
-<g transform="translate(70 325)">
-<rect width="235" height="90" rx="16" fill="#0f172a" stroke="#164e63"/><text x="20" y="30" fill="#67e8f9" font-family="Arial" font-size="12" letter-spacing="2">FOCUS 01</text><text x="20" y="58" fill="#fff" font-family="Arial" font-size="19" font-weight="700">VAPT</text><text x="20" y="78" fill="#64748b" font-family="Arial" font-size="12">Recon · enumeration · validation</text>
-<rect x="255" width="235" height="90" rx="16" fill="#0f172a" stroke="#3730a3"/><text x="275" y="30" fill="#a5b4fc" font-family="Arial" font-size="12" letter-spacing="2">FOCUS 02</text><text x="275" y="58" fill="#fff" font-family="Arial" font-size="19" font-weight="700">NETWORK</text><text x="275" y="78" fill="#64748b" font-family="Arial" font-size="12">Protocols · services · traffic</text>
-<rect x="510" width="235" height="90" rx="16" fill="#0f172a" stroke="#831843"/><text x="530" y="30" fill="#f9a8d4" font-family="Arial" font-size="12" letter-spacing="2">FOCUS 03</text><text x="530" y="58" fill="#fff" font-family="Arial" font-size="19" font-weight="700">WEB</text><text x="530" y="78" fill="#64748b" font-family="Arial" font-size="12">HTTP · OWASP · Burp Suite</text>
-</g>
-<g transform="translate(940 145)">
-<rect width="380" height="270" rx="22" fill="#0a1022" stroke="#263b63"/>
-<text x="32" y="48" fill="#64748b" font-family="Arial" font-size="12" letter-spacing="3">WORKING PRINCIPLE</text>
-<text x="32" y="92" fill="#f8fafc" font-family="Arial" font-size="22" font-weight="700">LEARN</text><text x="205" y="92" fill="#475569" font-family="Arial" font-size="20">→</text>
-<text x="32" y="137" fill="#f8fafc" font-family="Arial" font-size="22" font-weight="700">TEST</text><text x="205" y="137" fill="#475569" font-family="Arial" font-size="20">→</text>
-<text x="32" y="182" fill="#f8fafc" font-family="Arial" font-size="22" font-weight="700">VALIDATE</text><text x="205" y="182" fill="#475569" font-family="Arial" font-size="20">→</text>
-<text x="32" y="227" fill="url(#a)" font-family="Arial" font-size="22" font-weight="700">BUILD</text>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 500" role="img" aria-label="Profile and current focus">
+<rect width="1600" height="500" fill="#0c0e11"/><rect width="1600" height="8" fill="#bcff3a"/>
+<text x="70" y="60" fill="#9da3a5" font-family="Arial" font-size="15" font-weight="700" letter-spacing="3">01 / PROFILE</text>
+<text x="70" y="112" fill="#f0f1ed" font-family="Arial" font-size="38" font-weight="800">Still learning. Building for real.</text>
+<path d="M70 160H1530" stroke="#2a2f31" stroke-width="2"/>
+<text x="70" y="208" fill="#f0f1ed" font-family="Arial" font-size="22" font-weight="700">I’m building practical security capability</text>
+<text x="70" y="242" fill="#9da3a5" font-family="Arial" font-size="20">from fundamentals — networking, HTTP, Linux,</text>
+<text x="70" y="273" fill="#9da3a5" font-family="Arial" font-size="20">enumeration, vulnerability validation and reporting.</text>
+<text x="70" y="326" fill="#dac9a5" font-family="Arial" font-size="18" font-weight="700">The goal is not to collect tools.</text>
+<text x="70" y="356" fill="#f0f1ed" font-family="Georgia" font-size="18">It is to understand what they are telling me.</text>
+<rect x="900" y="198" width="630" height="220" fill="#121519" stroke="#2a2f31" stroke-width="2"/>
+<text x="930" y="228" fill="#bcff3a" font-family="Arial" font-size="13" font-weight="700" letter-spacing="2">CURRENT FIELD NOTES</text>
+<text x="930" y="270" fill="#f0f1ed" font-family="Arial" font-size="17">01  Network reconnaissance</text><path d="M930 292H1490" stroke="#22272a"/><text x="930" y="308" fill="#f0f1ed" font-family="Arial" font-size="17">02  HTTP / web application testing</text><path d="M930 330H1490" stroke="#22272a"/><text x="930" y="346" fill="#f0f1ed" font-family="Arial" font-size="17">03  Python security automation</text><path d="M930 368H1490" stroke="#22272a"/><text x="930" y="384" fill="#f0f1ed" font-family="Arial" font-size="17">04  CPENT practical preparation</text><path d="M930 406H1490" stroke="#22272a"/>
+<text x="70" y="455" fill="#9da3a5" font-family="Arial" font-size="13" font-weight="700" letter-spacing="2">VAPT · NETWORK · WEB · PYTHON</text>
 </svg>
