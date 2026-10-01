@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" role="img" aria-label="Security workflow">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#06b6d4"/><stop offset=".5" stop-color="#6366f1"/><stop offset="1" stop-color="#a855f7"/></linearGradient></defs>
+<rect width="1200" height="250" rx="24" fill="#0b1020" stroke="#26314f"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="48" y="42" fill="#64748b" font-size="13" letter-spacing="3">SECURITY ASSESSMENT LOOP</text>
+<g transform="translate(48 78)">
+<g><rect width="190" height="112" rx="16" fill="#111a30" stroke="#164e63"/><text x="22" y="39" fill="#67e8f9" font-size="13">01</text><text x="22" y="68" fill="#fff" font-size="20" font-weight="700">RECON</text><text x="22" y="92" fill="#94a3b8" font-size="13">discover the surface</text></g>
+<path d="M205 56h70" stroke="url(#g)" stroke-width="3"/><path d="m267 48 10 8-10 8" fill="none" stroke="#a78bfa" stroke-width="3"/>
+<g transform="translate(292)"><rect width="190" height="112" rx="16" fill="#111a30" stroke="#3730a3"/><text x="22" y="39" fill="#a78bfa" font-size="13">02</text><text x="22" y="68" fill="#fff" font-size="20" font-weight="700">ENUMERATE</text><text x="22" y="92" fill="#94a3b8" font-size="13">understand services</text></g>
+<path d="M497 56h70" stroke="url(#g)" stroke-width="3"/><path d="m559 48 10 8-10 8" fill="none" stroke="#a78bfa" stroke-width="3"/>
+<g transform="translate(584)"><rect width="190" height="112" rx="16" fill="#111a30" stroke="#4c1d95"/><text x="22" y="39" fill="#c084fc" font-size="13">03</text><text x="22" y="68" fill="#fff" font-size="20" font-weight="700">VALIDATE</text><text x="22" y="92" fill="#94a3b8" font-size="13">test in controlled labs</text></g>
+<path d="M789 56h70" stroke="url(#g)" stroke-width="3"/><path d="m851 48 10 8-10 8" fill="none" stroke="#a78bfa" stroke-width="3"/>
+<g transform="translate(876)"><rect width="190" height="112" rx="16" fill="#111a30" stroke="#831843"/><text x="22" y="39" fill="#f472b6" font-size="13">04</text><text x="22" y="68" fill="#fff" font-size="20" font-weight="700">REPORT</text><text x="22" y="92" fill="#94a3b8" font-size="13">explain impact & fixes</text></g>
+</g></g>
+</svg>
